@@ -1,5 +1,5 @@
 <?php
-ini_set('display_errors',1);
+ini_set('display_errors',1);//first
 
 require "./../../../../vendor/autoload.php";
 include_once("./../../config/config.php");
